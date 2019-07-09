@@ -1,0 +1,15 @@
+{
+    "name": "magadanuhak/kinopars",
+    "description": "Film parser",
+    "type": "library",
+    "require": {
+        "paquettg/php-html-parser": "2.0.2"
+    },
+    "license": "open",
+    "authors": [
+        {
+            "name": "Daniel Maga",
+            "email": "magadanuhak@gmail.com"
+        }
+    ]
+}
